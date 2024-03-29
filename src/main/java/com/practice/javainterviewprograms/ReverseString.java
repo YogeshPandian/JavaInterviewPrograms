@@ -34,8 +34,8 @@ public class ReverseString {
         System.out.println(reverseString.reverse());
     }
     public static void main(String[] args) {
-        //ReverseString.revStringUsingConcatenation();
-        //ReverseString.revStringUsingCharArray();
+        ReverseString.revStringUsingConcatenation();
+        ReverseString.revStringUsingCharArray();
         ReverseString.revStringUsingStringBuffer();
     }
 }
