@@ -19,7 +19,7 @@ public class ReverseString {
         System.out.println(reverse);
     }
     public static void revStringUsingCharArray(){
-        String stringToBeReversed = "Yogesh";
+        String stringToBeReversed = "Yogi";
         String reverse = "";
         char[] charArrayOfStringRev = stringToBeReversed.toCharArray();
         int lengthOfString = charArrayOfStringRev.length;
